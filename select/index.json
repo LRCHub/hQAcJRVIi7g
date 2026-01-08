@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "リンちゃんなう！",
+  "base_artist": "オワタP",
+  "createdAt": "2026-01-08T08:54:19.914454Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リンちゃんなう!",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/01_リンちゃんなう!_オワタP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リンちゃんなう！",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/02_リンちゃんなう!_オワタP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リンちゃんなう! (フリーダムVer.)",
+      "artist": "__(アンダーバー)",
+      "has_synced": true,
+      "path": "select/03_リンちゃんなう!_(フリーダムVer.)_(アンダーバー).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リンちゃんなう！(PandaBoY remix)",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/04_リンちゃんなう!(PandaBoY_remix)_オワタP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リンちゃんなう！",
+      "artist": "Owata-P",
+      "has_synced": false,
+      "path": "select/05_リンちゃんなう!_Owata-P.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リンちゃんなう!",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/pl_01_リンちゃんなう!_オワタP.txt"
+    }
+  ]
+}
